@@ -1,3 +1,6 @@
+data/*.csv
+data/*.txt
+
 *.py[cod]
 
 # C extensions
